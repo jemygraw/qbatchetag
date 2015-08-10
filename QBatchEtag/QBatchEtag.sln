@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QBatchEtag", "QBatchEtag\QBatchEtag.csproj", "{540F28AC-1BA9-45D1-B1BD-ABFC7210ADB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{540F28AC-1BA9-45D1-B1BD-ABFC7210ADB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540F28AC-1BA9-45D1-B1BD-ABFC7210ADB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540F28AC-1BA9-45D1-B1BD-ABFC7210ADB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540F28AC-1BA9-45D1-B1BD-ABFC7210ADB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
